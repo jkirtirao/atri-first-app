@@ -1,0 +1,13 @@
+{
+  "Flex": 27,
+  "TextBox": 25,
+  "Icon": 3,
+  "Toggle": 1,
+  "Dropdown": 1,
+  "Breadcrumb": 1,
+  "Div": 62,
+  "Link": 16,
+  "Image": 9,
+  "Button": 2,
+  "UnorderedList": 3
+}
